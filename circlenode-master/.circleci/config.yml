@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/circle/circlenode-master
+    working_directory: ~/Harini100/circle/circlenode-master
     docker:
       - image: circleci/node:4.8.3
       - image: circleci/mysql
